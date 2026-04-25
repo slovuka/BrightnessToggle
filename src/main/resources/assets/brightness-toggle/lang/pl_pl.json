@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "Przełącz pełną jasność",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "Jasność włączona",
+  "key.brightness-toggle.gamma-disabled": "Jasność wyłączona",
+  "key.brightness-toggle.gamma_value": "Max. jasność +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "„Mały” mod kliencki, który szybko zmienia jasność Twojego Minecrafta!\n(Możesz ustawić maksymalną jasność v ustawieniach moda!)"
+}

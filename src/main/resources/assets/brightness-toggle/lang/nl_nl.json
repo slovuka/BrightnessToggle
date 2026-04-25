@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "Volledige helderheid omschakelen",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "Helderheid ingeschakeld",
+  "key.brightness-toggle.gamma-disabled": "Helderheid uitgeschakeld",
+  "key.brightness-toggle.gamma_value": "Max. helderheid +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "Een \"kleine\" client-mod die snel de helderheid van je Minecraft verandert!\n(Je kunt de maximale helderheid instellen in de mod-instellingen!)"
+}

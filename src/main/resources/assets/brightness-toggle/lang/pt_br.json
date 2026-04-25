@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "Alternar Brilho Total",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "Brilho Ativado",
+  "key.brightness-toggle.gamma-disabled": "Brilho Desativado",
+  "key.brightness-toggle.gamma_value": "Brilho Máximo +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "Um mod de cliente \"pequeno\" que altera rapidamente o brilho do seu minecraft!\n(Você pode definir o Brilho Máximo nas configurações do mod!)"
+}

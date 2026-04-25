@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "Comută Luminozitate Maximă",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "Luminozitate Activată",
+  "key.brightness-toggle.gamma-disabled": "Luminozitate Dezactivată",
+  "key.brightness-toggle.gamma_value": "Luminozitate Max +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "Un mod de client „mic” care schimbă rapid luminozitatea jocului tău!\n(Poți seta luminozitatea maximă în setările modului!)"
+}

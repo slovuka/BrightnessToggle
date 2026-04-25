@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "切换最大亮度",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "亮度已启用",
+  "key.brightness-toggle.gamma-disabled": "亮度已禁用",
+  "key.brightness-toggle.gamma_value": "最大亮度 +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "一个能快速更改 Minecraft 亮度的“小”客户端模组！\n（您可以在模组设置中设定最大亮度！）"
+}

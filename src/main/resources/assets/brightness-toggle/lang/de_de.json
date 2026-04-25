@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "Volle Helligkeit umschalten",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "Helligkeit Aktiviert",
+  "key.brightness-toggle.gamma-disabled": "Helligkeit Deaktiviert",
+  "key.brightness-toggle.gamma_value": "Max. Helligkeit +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "Ein „kleiner“ Client-Mod, der schnell die Helligkeit deines Minecrafts ändert!\n(Du kannst die maximale Helligkeit in den Mod-Einstellungen festlegen!)"
+}

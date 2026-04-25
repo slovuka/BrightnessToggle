@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "Teljes fényerő váltása",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "Fényerő bekapcsolva",
+  "key.brightness-toggle.gamma-disabled": "Fényerő kikapcsolva",
+  "key.brightness-toggle.gamma_value": "Max fényerő +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "Egy „apró” kliens mod, amivel gyorsan módosíthatod a Minecraftod fényerejét!\n(A maximális fényerőt a mod beállításaiban adhatod meg!)"
+}

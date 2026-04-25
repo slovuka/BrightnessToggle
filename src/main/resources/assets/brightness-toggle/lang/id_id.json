@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "Alihkan Kecerahan Penuh",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "Kecerahan Diaktifkan",
+  "key.brightness-toggle.gamma-disabled": "Kecerahan Dinonaktifkan",
+  "key.brightness-toggle.gamma_value": "Kecerahan Maks +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "Mod klien \"kecil\" yang dengan cepat mengubah kecerahan minecraft Anda!\n(Anda dapat mengatur Kecerahan Maks di Pengaturan mod!)"
+}

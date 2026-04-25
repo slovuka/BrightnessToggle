@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "Перемкнути повну яскравість",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "Яскравість увімкнена",
+  "key.brightness-toggle.gamma-disabled": "Яскравість вимкнена",
+  "key.brightness-toggle.gamma_value": "Макс. яскравість +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "«Маленький» клієнтський мод, який швидко змінює яскравість вашого Minecraft!\n(Ви можете встановити максимальну яскравість у налаштуваннях мода!)"
+}

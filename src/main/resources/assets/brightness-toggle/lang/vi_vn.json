@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "Bật/Tắt độ sáng tối đa",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "Độ sáng đã bật",
+  "key.brightness-toggle.gamma-disabled": "Độ sáng đã tắt",
+  "key.brightness-toggle.gamma_value": "Độ sáng tối đa +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "Một bản mod client \"nhỏ\" giúp thay đổi nhanh độ sáng Minecraft của bạn!\n(Bạn có thể đặt Độ sáng tối đa trong Cài đặt mod!)"
+}

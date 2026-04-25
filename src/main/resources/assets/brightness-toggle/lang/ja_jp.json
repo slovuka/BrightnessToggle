@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "最大明るさの切り替え",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "明るさ有効",
+  "key.brightness-toggle.gamma-disabled": "明るさ無効",
+  "key.brightness-toggle.gamma_value": "最大明るさ +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "Minecraftの明るさを素早く変更する「小さな」クライアントModです！\n(Mod設定で最大明るさを設定できます！)"
+}

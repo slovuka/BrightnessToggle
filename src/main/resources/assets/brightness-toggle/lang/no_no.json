@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "Bytt full lysstyrke",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "Lysstyrke aktivert",
+  "key.brightness-toggle.gamma-disabled": "Lysstyrke deaktivert",
+  "key.brightness-toggle.gamma_value": "Maks lysstyrke +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "En \"liten\" klient-mod som raskt endrer lysstyrken i din minecraft!\n(Du kan angi maks lysstyrke i mod-innstillingene!)"
+}

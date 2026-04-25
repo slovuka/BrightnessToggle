@@ -8,8 +8,9 @@
 		"Slovuka"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/slovuka/BrightnessToggle"
+		"homepage": "https://modrinth.com/mod/brightness-toggle/",
+		"sources": "https://github.com/slovuka/BrightnessToggle",
+		"issues": "https://github.com/slovuka/BrightnessToggle/issues"
 	},
 	"license": "CC BY-NC 4.0",
 	"icon": "assets/brightness-toggle/icon.png",

@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "Vaihda täysi kirkkaus",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "Kirkkaus käytössä",
+  "key.brightness-toggle.gamma-disabled": "Kirkkaus pois käytöstä",
+  "key.brightness-toggle.gamma_value": "Max kirkkaus +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "Pieni asiakaspuolen modi, joka muuttaa nopeasti minecraftisi kirkkautta!\n(Voit asettaa maksimikirkkauden modin asetuksissa!)"
+}

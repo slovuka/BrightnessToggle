@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "Attiva Luminosità Massima",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "Luminosità Attivata",
+  "key.brightness-toggle.gamma-disabled": "Luminosità Disattivata",
+  "key.brightness-toggle.gamma_value": "Luminosità Max +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "Una \"piccola\" mod client che cambia rapidamente la luminosità del tuo Minecraft!\n(Puoi impostare la luminosità massima nelle impostazioni della mod!)"
+}

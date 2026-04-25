@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "Переключить полную яркость",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "Яркость включена",
+  "key.brightness-toggle.gamma-disabled": "Яркость выключена",
+  "key.brightness-toggle.gamma_value": "Макс. яркость +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "«Маленький» клиентский мод, который быстро меняет яркость вашего Minecraft!\n(Вы можете установить максимальную яркость в настройках мода!)"
+}

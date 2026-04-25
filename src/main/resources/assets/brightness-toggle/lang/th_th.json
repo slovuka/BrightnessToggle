@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "สลับความสว่างสูงสุด",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "เปิดใช้งานความสว่าง",
+  "key.brightness-toggle.gamma-disabled": "ปิดใช้งานความสว่าง",
+  "key.brightness-toggle.gamma_value": "ความสว่างสูงสุด +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "มอดไคลเอนต์ \"ขนาดเล็ก\" ที่ช่วยเปลี่ยนความสว่างของ Minecraft ได้อย่างรวดเร็ว!\n(คุณสามารถตั้งค่าความสว่างสูงสุดได้ในการตั้งค่ามอด!)"
+}

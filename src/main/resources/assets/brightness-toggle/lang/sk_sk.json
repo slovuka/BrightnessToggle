@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "Prepnúť plný jas",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "Jas zapnutý",
+  "key.brightness-toggle.gamma-disabled": "Jas vypnutý",
+  "key.brightness-toggle.gamma_value": "Max. jas +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "„Malý“ klientsky mod, ktorý rýchlo mení jas vášho minecraftu!\n(Maximálny jas môžete nastaviť v nastaveniach modu!)"
+}

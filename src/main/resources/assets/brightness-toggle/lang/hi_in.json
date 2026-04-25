@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "पूर्ण चमक टॉगल करें",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "चमक सक्षम",
+  "key.brightness-toggle.gamma-disabled": "चमक अक्षम",
+  "key.brightness-toggle.gamma_value": "अधिकतम चमक +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "एक \"छोटा\" क्लाइंट मोड जो आपके माइनक्राफ्ट की चमक को जल्दी से बदल देता है!\n(आप मोड सेटिंग्स में अधिकतम चमक सेट कर सकते हैं!)"
+}

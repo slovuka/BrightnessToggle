@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "تبديل السطوع الكامل",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "السطوع مفعل",
+  "key.brightness-toggle.gamma-disabled": "السطوع معطل",
+  "key.brightness-toggle.gamma_value": "أقصى سطوع +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "مود عميل \"صغير\" يغير سطوع ماين كرافت بسرعة!\n(يمكنك ضبط أقصى سطوع في إعدادات المود!)"
+}

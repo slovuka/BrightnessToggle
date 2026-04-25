@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "Tam Parlaklığı Değiştir",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "Parlaklık Etkin",
+  "key.brightness-toggle.gamma-disabled": "Parlaklık Devre Dışı",
+  "key.brightness-toggle.gamma_value": "Maks Parlaklık +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "Minecraft'ınızın parlaklığını hızlıca değiştiren \"küçük\" bir istemci modu!\n(Maksimum Parlaklığı mod ayarlarından belirleyebilirsiniz!)"
+}

@@ -3,5 +3,6 @@
   "category.brightness-toggle": "Brightness Toggle",
   "key.brightness-toggle.gamma-enabled": "Brightness Enabled",
   "key.brightness-toggle.gamma-disabled": "Brightness Disabled",
-  "key.brightness-toggle.gamma_value": "Max Brightness +%d%%"
+  "key.brightness-toggle.gamma_value": "Max Brightness +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "A \"small\" client mod that quickly changes the brightness of your minecraft!\n(You can set Max Brightness in mod Settings!)"
 }

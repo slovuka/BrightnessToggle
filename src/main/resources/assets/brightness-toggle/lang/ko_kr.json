@@ -1,0 +1,8 @@
+{
+  "key.brightness-toggle.toggle": "최대 밝기 전환",
+  "category.brightness-toggle": "Brightness Toggle",
+  "key.brightness-toggle.gamma-enabled": "밝기 활성화됨",
+  "key.brightness-toggle.gamma-disabled": "밝기 비활성화됨",
+  "key.brightness-toggle.gamma_value": "최대 밝기 +%d%%",
+  "modmenu.descriptionTranslation.brightness-toggle": "마인크래프트의 밝기를 빠르게 변경하는 \"작은\" 클라이언트 모드입니다!\n(모드 설정에서 최대 밝기를 설정할 수 있습니다!)"
+}
