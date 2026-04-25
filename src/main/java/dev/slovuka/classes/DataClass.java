@@ -12,7 +12,7 @@ import static dev.slovuka.BrightnessToggle.MOD_ID;
 
 public class DataClass {
     public static class Data {
-        public int brightnessValue = 100;
+        public int brightnessValue = 1000;
         public double oldGamma = 1.0;
         public boolean gammaEnabled = false;
     }
