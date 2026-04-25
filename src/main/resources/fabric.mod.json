@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "brightness-toggle",
+	"version": "1.16.5",
+	"name": "Brightness Toggle",
+	"description": "A \"small\" client mod that quickly changes the brightness of your minecraft!\n(You can set Max Brightness in mod Settings!)",
+	"authors": [
+		"Slovuka"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/slovuka/BrightnessToggle"
+	},
+	"license": "CC BY-NC 4.0",
+	"icon": "assets/brightness-toggle/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"dev.slovuka.BrightnessToggle"
+		],
+		"modmenu": [
+			"dev.slovuka.classes.ConfigMenu"
+		]
+	},
+	"mixins": [
+		"brightness-toggle.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~1.16.5",
+		"java": ">=8",
+		"fabric": "*"
+	}
+}
