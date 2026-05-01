@@ -1,0 +1,13 @@
+{
+  "itemGroup.brightness_toggle": "Example Mod Tab",
+  "block.brightness_toggle.example_block": "Example Block",
+  "item.brightness_toggle.example_item": "Example Item",
+
+  "brightness_toggle.configuration.title": "Brightness Toggle Configs",
+  "brightness_toggle.configuration.section.brightness_toggle.common.toml": "Brightness Toggle Configs",
+  "brightness_toggle.configuration.section.brightness_toggle.common.toml.title": "Brightness Toggle Configs",
+  "brightness_toggle.configuration.items": "Item List",
+  "brightness_toggle.configuration.logDirtBlock": "Log Dirt Block",
+  "brightness_toggle.configuration.magicNumberIntroduction": "Magic Number Text",
+  "brightness_toggle.configuration.magicNumber": "Magic Number"
+}
